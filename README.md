@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sama Ezmazy 👋
+AI Engineering student at Kafr El-Sheikh University (2027) | ML Vice-Head @ IEEE KFS
 
-<!--
-**Sama-ezmazy/Sama-ezmazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build data analysis and machine learning projects with Python.
 
-Here are some ideas to get you started:
+## What I work with
+- **ML / NLP:** Scikit-learn, NLTK, TF-IDF, RAG, YOLOv11, EasyOCR
+- **Data:** Pandas, NumPy, Matplotlib, Power BI, SQL / MySQL
+- **Tools:** Jupyter, Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **Customer Churn Prediction**: KNN vs Logistic Regression, 82% accuracy
+- **NLP Text Classification**: TF-IDF pipeline on 5,000+ samples, 78% accuracy
+- **Sales Data Analysis**: Python + Power BI dashboards
+
+## Experience
+DEPI Microsoft ML Engineer track (Nov 2025 - Jul 2026) · Orange Digital Center AI Hackathon
+
+📫 sama.ezmazy@gmail.com · [LinkedIn](https://linkedin.com/in/sama-ezmazy)
